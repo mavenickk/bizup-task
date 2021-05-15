@@ -1,4 +1,5 @@
-#First Test case Link: https://storage.googleapis.com/bizupimg/profile_photo/WhatsApp%20Image%202020-08-23%20at%203.11.46%20PM%20-%20Himanshu%20Kohli.jpeg
+# First Test case 
+Link: https://storage.googleapis.com/bizupimg/profile_photo/WhatsApp%20Image%202020-08-23%20at%203.11.46%20PM%20-%20Himanshu%20Kohli.jpeg
 <br />
 <br />
 Output:
@@ -12,7 +13,8 @@ Output:
 <br />
 <br />
 <br />
-#Second test case link: https://storage.googleapis.com/bizupimg/profile_photo/918527129869%20instagram-logo-png-2451.png
+# Second test case 
+link: https://storage.googleapis.com/bizupimg/profile_photo/918527129869%20instagram-logo-png-2451.png
 <br />
 <br />
 <br />
@@ -27,7 +29,8 @@ Output:
 <br />
 <br />
 <br />
-#Third test case link: https://storage.googleapis.com/bizupimg/profile_photo/kppl_logo.png
+# Third test case 
+link: https://storage.googleapis.com/bizupimg/profile_photo/kppl_logo.png
 <br />
 <br />
 <br />
